@@ -10,7 +10,7 @@
 - Paulis Antoine Antoine.Paulis@student.uliege.be
 - Zanella Francois
 
-As part of the **Discrete Optimization** (MATH0462-1) course at the University of Liège, we will take part in the first part (dataset A) of the EURO/ROADEF 2026 Challenge which is explained below
+As part of the **Discrete Optimization** (MATH0462-1) course at the University of Liège, we will take part in the first part (dataset A) of the EURO/ROADEF 2026 Challenge which is explained below.
 
 The **EURO/ROADEF 2026 Challenge** is an international optimization competition focused on solving the **T-Adaptive Segment Routing** problem that arise from the traffic engineering area.
 
