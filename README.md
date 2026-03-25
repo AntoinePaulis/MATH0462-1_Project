@@ -8,7 +8,7 @@
 
 - Kulczycki Robin Robin.Kulczycki@student.uliege.be
 - Paulis Antoine Antoine.Paulis@student.uliege.be
-- Zanella Francois
+- Zanella Francois Francois.Zanella@student.uliege.be
 
 As part of the **Discrete Optimization** (MATH0462-1) course at the University of Liège, we will take part in the first part (dataset A) of the EURO/ROADEF 2026 Challenge which is explained below.
 
