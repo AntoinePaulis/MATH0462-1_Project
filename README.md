@@ -6,7 +6,7 @@
 
 ## Team
 
-- Robin Kulczycki Robin.Kulczycki@student.uliege.be
+- Kulczycki Robin Robin.Kulczycki@student.uliege.be
 - Paulis Antoine Antoine.Paulis@student.uliege.be
 - Zanella Francois
 
